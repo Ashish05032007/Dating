@@ -1,0 +1,12 @@
+body {
+     background-color:lightcyan;
+     background-image:"https://t3.ftcdn.net/jpg/07/68/87/50/360_F_768875059_FyzmnLsYRXT6hBNH7XDELmMVl8vG0cON.jpg";
+}
+h6{
+    font-size: xx-small;
+}
+img{
+    width:min-content;
+    height: 200px;
+    
+}
